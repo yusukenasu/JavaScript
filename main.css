@@ -1,0 +1,19 @@
+.time_display{
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-end;
+  width:150px;
+  height:60px;
+  margin-top:20px;
+  margin-bottom:40px;
+  margin-left:20px;
+}
+
+.countNo1, .countNo2, .countNo3, .countNo4{
+    font-size:38px;
+    height:48px;
+}
+
+#start_button, #stop_button, #reset_button{
+  padding:5px 10px;
+}
